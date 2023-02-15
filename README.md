@@ -2,10 +2,10 @@
 
 <p align="center">
     <a href="https://nmap.org/"><img src="https://nmap.org/images/sitelogo-2x.png"></a><br>
-    <a href="https://github.com/Dilum125/Nmap-Scan-Bot"> <img src="https://img.shields.io/github/repo-size/Dilum125/Nmap-Scan-Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dilum125/Nmap-Scan-Bot/commits/"> <img src="https://img.shields.io/github/last-commit/Dilum125/Nmap-Scan-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dilum125/Nmap-Scan-Bot/issues"> <img src="https://img.shields.io/github/issues/Dilum125/Nmap-Scan-Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dilum125/Nmap-Scan-Bot/network/members"> <img src="https://img.shields.io/github/forks/Dilum125/Nmap-Scan-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/InukaRanmira/Nmap-Scan-Bot"> <img src="https://img.shields.io/github/repo-size/InukaRanmira/Nmap-Scan-Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/InukaRanmira/Nmap-Scan-Bot/commits/"> <img src="https://img.shields.io/github/last-commit/InukaRanmira/Nmap-Scan-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/InukaRanmira/Nmap-Scan-Bot/issues"> <img src="https://img.shields.io/github/issues/InukaRanmira/Nmap-Scan-Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/InukaRanmira/Nmap-Scan-Bot/network/members"> <img src="https://img.shields.io/github/forks/InukaRanmira/Nmap-Scan-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
  </p>
 
 > Telegram [Nmap](https://nmap.org/) Scan Bot
