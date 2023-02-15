@@ -29,7 +29,7 @@ $ sudo apt instll nmap -y
 # Install Git & Python3
 $ sudo apt install git python3 python3-pip -y
 # Clone Repo
-$ git clone https://github.com/Dilum125/Nmap-Scan-Bot
+$ git clone https://github.com/InukaRanmira/Nmap-Scan-Bot
 $ cd Nmap-Scan-Bot
 # Install Requirements 
 $ pip3 install -r requirements.txt
@@ -70,7 +70,7 @@ Commands :
 
 ## Dev ❤️
 
-- **[MasterX](https://t.me/About_xyz) - Dev & Owner**
+- **[HyphenX](https://t.me/AboutInuka) - Dev & Owner**
 
 ## Made with 🛠
 
@@ -82,5 +82,5 @@ Commands :
 
 ## Join with Us ☘
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/team_mars_11)
-[![Telegram Group](https://img.shields.io/badge/TELEGRAM-GROUP-blue?style=for-the-badge&logo=telegram)](https://t.me/TeamMars_11)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/+c8oBVEKPAD84ZGY1)
+[![Telegram Group](https://img.shields.io/badge/TELEGRAM-GROUP-blue?style=for-the-badge&logo=telegram)](https://t.me/Smart_Tech_Disscussion)
